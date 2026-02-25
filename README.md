@@ -1,2 +1,5 @@
 # ANALISIS
 Semana 4 
+
+MODELO SIMPLE DE COSTO EN NUBE VS on-premise
+
