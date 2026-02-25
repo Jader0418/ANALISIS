@@ -20,7 +20,6 @@ def busqueda_binaria(lista, objetivo):
     return -1, pasos
 # Aca se realiza la prueba empirica.
 def realizar_prueba(n):
-    # Crear lista ordenada de tamaño n
     datos = list(range(n))
     objetivo = n - 1  # Se hace la busqueda del Peor Caso.
 
